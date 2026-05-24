@@ -176,5 +176,9 @@ export const processSteps = [
 
 export const socialLinks = [
   { label: "LinkedIn", icon: FiLinkedin, href: "https://linkedin.com" },
-  { label: "Instagram", icon: FiInstagram, href: "https://instagram.com" },
+  {
+    label: "Instagram",
+    icon: FiInstagram,
+    href: "https://www.instagram.com/syncrossolutions?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+  },
 ];
