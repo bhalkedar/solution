@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply antialiased;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-white text-matte;
+  }
+
+  section {
+    scroll-margin-top: 96px;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/70 backdrop-blur-xl border border-white/70 shadow-card;
+  }
+
+  .gradient-border {
+    @apply relative rounded-2xl p-[1px] bg-gradient-to-br from-accent/40 via-accent/10 to-transparent;
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+}

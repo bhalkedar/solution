@@ -1,0 +1,12 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#FFFFFF"/>
+  <rect x="90" y="90" width="1020" height="620" rx="48" fill="#F7F7F8"/>
+  <rect x="200" y="210" width="500" height="34" rx="17" fill="#111111"/>
+  <rect x="200" y="260" width="320" height="20" rx="10" fill="#EAEAEA"/>
+  <rect x="200" y="300" width="420" height="20" rx="10" fill="#EAEAEA"/>
+  <rect x="200" y="380" width="820" height="250" rx="32" fill="#FFFFFF"/>
+  <circle cx="320" cy="510" r="60" fill="#2563EB" fill-opacity="0.18"/>
+  <circle cx="520" cy="510" r="60" fill="#111111"/>
+  <circle cx="720" cy="510" r="60" fill="#2563EB" fill-opacity="0.3"/>
+  <text x="200" y="670" font-family="Inter, sans-serif" font-size="28" fill="#111111">E-Accountancy</text>
+</svg>
