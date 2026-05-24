@@ -14,6 +14,7 @@ import {
   FiUsers,
   FiZap,
 } from "react-icons/fi";
+import { TbDrone } from "react-icons/tb";
 
 import projectOne from "../assets/projects/kk3dlab.svg";
 import projectTwo from "../assets/projects/dataviz.svg";
@@ -76,7 +77,7 @@ export const services = [
   {
     title: "Drone",
     description: "Autonomous drone solutions for inspection, mapping, and real-time monitoring.",
-    icon: FiActivity,
+    icon: TbDrone,
   },
 ];
 
