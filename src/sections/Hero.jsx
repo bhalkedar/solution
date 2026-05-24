@@ -38,7 +38,7 @@ export default function Hero() {
               variants={fadeUp}
               className="text-xs font-semibold uppercase tracking-[0.3em] text-accent/80"
             >
-              Software & AI Automation Studio
+              Software & AI Automation company
             </motion.p>
             <motion.h1
               variants={fadeUp}
