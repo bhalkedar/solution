@@ -73,6 +73,11 @@ export const services = [
     description: "Hardware-integrated solutions with real-time intelligence and control.",
     icon: FiHexagon,
   },
+  {
+    title: "Drone",
+    description: "Autonomous drone solutions for inspection, mapping, and real-time monitoring.",
+    icon: FiActivity,
+  },
 ];
 
 export const projects = [
