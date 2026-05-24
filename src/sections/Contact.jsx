@@ -70,13 +70,10 @@ export default function Contact() {
             <h3 className="text-base font-semibold text-matte">Company Info</h3>
             <div className="space-y-3 text-sm text-matte/70">
               <p className="flex items-center gap-2">
-                <FiMail /> hello@syncrossolutions.com
+                <FiMail /> syncrossolutions@gmail.com
               </p>
               <p className="flex items-center gap-2">
-                <FiPhone /> +91 98765 43210
-              </p>
-              <p className="flex items-center gap-2">
-                <FiMapPin /> Global delivery, based in India
+                <FiMapPin /> Gujarat , India
               </p>
             </div>
             <div className="flex items-center gap-3 pt-2">
