@@ -59,8 +59,7 @@ export default function Footer() {
         <div>
           <h4 className="text-sm font-semibold text-matte">Contact</h4>
           <ul className="mt-4 space-y-3 text-sm text-matte/70">
-            <li>hello@syncrossolutions.com</li>
-            <li>+91 98765 43210</li>
+            <li>syncrossolutions@gmail.com</li>
             <li>Remote-first, global delivery</li>
           </ul>
         </div>
