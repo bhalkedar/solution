@@ -92,15 +92,6 @@ export default function Contact() {
               ))}
             </div>
           </div>
-          <div className="glass rounded-2xl p-6">
-            <div className="flex items-center justify-between">
-              <h3 className="text-base font-semibold text-matte">Studio Map</h3>
-              <span className="text-xs text-matte/50">Google Maps</span>
-            </div>
-            <div className="mt-4 flex h-48 items-center justify-center rounded-2xl bg-white border border-lightgray text-sm text-matte/60">
-              Map placeholder
-            </div>
-          </div>
         </div>
       </Container>
     </section>
